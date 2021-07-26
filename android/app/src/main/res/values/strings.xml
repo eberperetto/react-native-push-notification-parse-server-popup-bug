@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Back4AppGuidePushNotifications</string>
+    <string name="default_notification_channel_id">guideChannel</string>
+</resources>
